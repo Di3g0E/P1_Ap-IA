@@ -4,39 +4,45 @@ Este repositorio contiene la primera práctica de la asignatura **Aprendizaje Au
 
 ## 🚀 Instrucciones de Ejecución
 
-Para ejecutar el código de esta práctica, se recomienda utilizar el entorno virtual compartido del proyecto.
+> Para una guía completa de configuración desde cero (incluida la instalación de Python y uv), consulta [SETUP.md](SETUP.md).
 
-### Requisitos Previos
+### Inicio Rápido
 
-- Python 3.13+
-- [uv](https://github.com/astral-sh/uv) (recomendado para la gestión de paquetes) o `pip`
-
-### Configuración del Entorno
-
-Si aún no has configurado el entorno virtual, sigue estos pasos desde la raíz de la carpeta `practicas`:
+Desde la carpeta `practicas/`:
 
 ```powershell
-# Crear el entorno virtual si no existe
-uv venv ..\.venv
+# Activar el entorno virtual
+.\.venv\Scripts\Activate.ps1
 
-# Instalar las dependencias
-uv pip install pandas numpy matplotlib
+# Instalar dependencias (solo la primera vez)
+uv pip install -r requirements.txt --link-mode copy
 ```
 
-### Ejecutar la Práctica
+### Ejecutar los Notebooks
 
-Desde esta carpeta (`P1_Ap-IA`), ejecuta el script principal:
-
-```powershell
-..\.venv\Scripts\python.exe main.py
-```
-*(Nota: Asegúrate de que el archivo `main.py` o el script correspondiente exista en el directorio).*
+1. Abre VS Code en `P1_Ap-IA/`.
+2. Abre cualquier notebook de `notebooks/`.
+3. Selecciona el kernel `.venv (Python 3.13.0)`.
+4. Ejecuta las celdas.
 
 ## 📁 Estructura del Proyecto
 
-- `data/`: Contiene el dataset `db.csv` con los registros financieros.
-- `papers/`: Documentación científica y referencias utilizadas para el estado del arte.
-- `README.md`: Este archivo con instrucciones de ejecución.
+- `data/`: Gestión de datos.
+    - `raw/`: Datos originales (`db.csv`).
+    - `processed/`: Datos procesados listos para modelos.
+- `doc/`: Documentación técnica y memoria (LaTeX).
+- `models/`: Binarios de modelos entrenados.
+- `notebooks/`: Experimentos y análisis.
+    - `01_test_carga.ipynb`: Validación de carga de datos.
+- `papers/`: Referencias científicas.
+- `src/`: Código fuente modular.
+    - `data/`: Scripts de carga y limpieza.
+    - `features/`: Ingeniería de variables.
+    - `models/`: Entrenamiento y arquitectura de modelos.
+    - `evaluation/`: Métricas y validación.
+    - `utils/`: Utilidades transversales.
+- `README.md`: Instrucciones y descripción del proyecto.
+- `SETUP.md`: Guía completa de configuración del entorno.
 
 ## 📚 Referencias (Estado del Arte)
 
