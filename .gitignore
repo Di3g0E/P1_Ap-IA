@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# Modelos (archivos pesados)
+models/*.pkl
+models/*.h5
+models/*.joblib
+
+# Entorno
+.venv
+
+# IDEs
+.vscode/
+.idea/
