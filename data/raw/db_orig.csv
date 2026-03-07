@@ -1,0 +1,886 @@
+Description,Date,Amount,Area,Type
+Entretenimiento,28/02/2026,"10,00€",Leisure,Expenses
+Nómina mensual,27/02/2026,"629,58€",Salary,Income
+Gasto vacaciones,25/02/2026,"51,00€","Leisure, Vacations",Expenses
+Pequeño ocio,22/02/2026,"2,80€",Leisure,Expenses
+Compra alimentación,21/02/2026,"24,80€",Food,Expenses
+Compra alimentación,21/02/2026,"21,60€",Food,Expenses
+Factura pequeña,21/02/2026,"6,50€",Invoice,Expenses
+Pequeño ocio,09/02/2026,"3,90€",Leisure,Expenses
+Pequeño ocio,08/02/2026,"8,00€",Leisure,Expenses
+Pequeño ocio,08/02/2026,"4,50€",Leisure,Expenses
+Pequeña inversión,07/02/2026,"20,00€",Investment,Expenses
+Factura pequeña,07/02/2026,"10,00€",Invoice,Expenses
+Compra alimentación,06/02/2026,"17,20€",Food,Expenses
+Factura pequeña,06/02/2026,"10,00€",Invoice,Expenses
+Inversión mensual,01/02/2026,"180,00€",Investment,Expenses
+Compra alimentación,01/02/2026,"29,30€",Food,Expenses
+Gasto alimentación,30/01/2026,"6,97€",Food,Expenses
+Nómina mensual,29/01/2026,"629,58€",Salary,Income
+Factura servicio,28/01/2026,"32,98€",Invoice,Expenses
+Factura pequeña,20/01/2026,"11,66€",Invoice,Expenses
+Factura servicio,20/01/2026,"25,00€",Invoice,Expenses
+Ingreso depósito,19/01/2026,"200,00€",Deposit,Income
+Pequeña inversión,18/01/2026,"20,00€",Investment,Expenses
+Viaje o vacaciones,14/01/2026,"429,81€","Leisure, Vacations",Expenses
+Pequeño ingreso,09/01/2026,"51,71€",Deposit,Income
+Factura pequeña,08/01/2026,"10,00€",Invoice,Expenses
+Pequeño ocio,06/01/2026,"7,15€",Leisure,Expenses
+Pequeño ocio,05/01/2026,"7,05€",Leisure,Expenses
+Inversión mensual,01/01/2026,"180,00€",Investment,Expenses
+Pequeño ocio,30/12/2025,"9,70€",Leisure,Expenses
+Entretenimiento,30/12/2025,"18,00€",Leisure,Expenses
+Pequeño ocio,28/12/2025,"5,00€",Leisure,Expenses
+Pequeño ocio,27/12/2025,"9,00€",Leisure,Expenses
+Nómina mensual,24/12/2025,"629,58€",Salary,Income
+Entretenimiento,23/12/2025,"12,50€",Leisure,Expenses
+Entretenimiento,19/12/2025,"12,80€",Leisure,Expenses
+Entretenimiento,18/12/2025,"10,50€",Leisure,Expenses
+Gasto alimentación,17/12/2025,"7,00€",Food,Expenses
+Compra supermercado,15/12/2025,"42,80€",Food,Expenses
+Factura servicio,14/12/2025,"78,98€",Invoice,Expenses
+Factura pequeña,12/12/2025,"15,00€",Invoice,Expenses
+Factura servicio,10/12/2025,"24,63€",Invoice,Expenses
+Factura pequeña,9/12/2025,"10,00€",Invoice,Expenses
+Entretenimiento,9/12/2025,"20,40€",Leisure,Expenses
+Pequeño ingreso,5/12/2025,"1,71€",Deposit,Income
+Pequeño ocio,4/12/2025,"3,40€",Leisure,Expenses
+Pequeña inversión,4/12/2025,"20,00€",Investment,Expenses
+Inversión mensual,4/12/2025,"180,00€",Investment,Expenses
+Pequeño ingreso,4/12/2025,"50,00€",Deposit,Income
+"Gasto food, vacations",30/11/2025,"4,50€","Food, Vacations",Expenses
+"Gasto invoice, vacations",30/11/2025,"46,79€","Invoice, Vacations",Expenses
+Nómina mensual,29/11/2025,"629,58€",Salary,Income
+Gasto vacaciones,28/11/2025,"3,60€","Leisure, Vacations",Expenses
+Compra alimentación,28/11/2025,"18,20€",Food,Expenses
+Factura servicio,28/11/2025,"20,00€",Invoice,Expenses
+Entretenimiento,28/11/2025,"29,80€",Leisure,Expenses
+Factura servicio,28/11/2025,"85,66€",Invoice,Expenses
+Pequeño ocio,27/11/2025,"3,60€",Leisure,Expenses
+Factura pequeña,27/11/2025,"14,25€",Invoice,Expenses
+Pequeño ingreso,26/11/2025,"50,00€",Deposit,Income
+Gasto alimentación,25/11/2025,"5,00€",Food,Expenses
+Actividad ocio,23/11/2025,"50,00€",Leisure,Expenses
+Microfactura,23/11/2025,"1,94€",Invoice,Expenses
+Gasto alimentación,19/11/2025,"3,32€",Food,Expenses
+Entretenimiento,18/11/2025,"25,76€",Leisure,Expenses
+Aportación inversión,12/11/2025,"100,00€",Investment,Expenses
+Pequeño ocio,10/11/2025,"3,24€",Leisure,Expenses
+Factura pequeña,8/11/2025,"11,00€",Invoice,Expenses
+Pequeño ingreso,6/11/2025,"50,00€",Deposit,Income
+Factura pequeña,4/11/2025,"10,00€",Invoice,Expenses
+Aportación inversión,1/11/2025,"50,00€",Investment,Expenses
+Aportación inversión,1/11/2025,"50,00€",Investment,Expenses
+Factura importante,31/10/2025,"304,99€",Invoice,Expenses
+Pequeño ocio,31/10/2025,"8,38€",Leisure,Expenses
+Microfactura,30/10/2025,"0,90€",Invoice,Expenses
+Nómina mensual,29/10/2025,"512,05€",Salary,Income
+Compra alimentación,26/10/2025,"19,00€",Food,Expenses
+Compra alimentación,23/10/2025,"18,50€",Food,Expenses
+Gasto alimentación,22/10/2025,"6,75€",Food,Expenses
+Factura pequeña,18/10/2025,"6,00€",Invoice,Expenses
+Microfactura,17/10/2025,"0,85€",Invoice,Expenses
+Compra alimentación,12/10/2025,"33,86€",Food,Expenses
+Factura pequeña,11/10/2025,"16,96€",Invoice,Expenses
+Entretenimiento,6/10/2025,"22,00€",Leisure,Expenses
+Factura pequeña,4/10/2025,"10,00€",Invoice,Expenses
+Gasto alimentación,4/10/2025,"8,81€",Food,Expenses
+Gasto alimentación,4/10/2025,"2,00€",Food,Expenses
+Factura pequeña,2/10/2025,"5,00€",Invoice,Expenses
+Nómina mensual,1/10/2025,"881,44€",Salary,Income
+Pequeña inversión,1/10/2025,"20,00€",Investment,Expenses
+Pequeño ingreso,28/09/2025,"50,00€",Deposit,Income
+Gasto alimentación,23/09/2025,"13,88€",Food,Expenses
+Pequeño ocio,21/09/2025,"4,00€",Leisure,Expenses
+Gasto alimentación,18/09/2025,"3,00€",Food,Expenses
+Pequeño ingreso,13/09/2025,"50,00€",Deposit,Income
+Compra alimentación,13/09/2025,"27,50€",Food,Expenses
+Gasto alimentación,13/09/2025,"8,00€",Food,Expenses
+Gasto alimentación,11/09/2025,"3,00€",Food,Expenses
+Gasto alimentación,11/09/2025,"2,60€",Food,Expenses
+Factura pequeña,06/09/2025,"14,95€",Invoice,Expenses
+Gasto alimentación,06/09/2025,"13,00€",Food,Expenses
+Compra alimentación,04/09/2025,"23,10€",Food,Expenses
+Entretenimiento,04/09/2025,"12,50€",Leisure,Expenses
+Gasto alimentación,04/09/2025,"3,00€",Food,Expenses
+Factura pequeña,03/09/2025,"15,10€",Invoice,Expenses
+Factura pequeña,03/09/2025,"10,00€",Invoice,Expenses
+Pequeña inversión,01/09/2025,"40,00€",Investment,Expenses
+Pequeño ocio,29/08/2025,"3,94€",Leisure,Expenses
+Pequeño ingreso,22/08/2025,"5,00€",Deposit,Income
+Viaje o vacaciones,19/08/2025,"679,32€","Leisure, Vacations",Expenses
+Pequeño ingreso,18/08/2025,"100,00€",Deposit,Income
+Actividad ocio,10/08/2025,"56,60€",Leisure,Expenses
+Nómina mensual,01/08/2025,"1.841,97€",Salary,Income
+Pequeña inversión,01/08/2025,"20,00€",Investment,Expenses
+Factura pequeña,01/08/2025,"18,23€",Invoice,Expenses
+Compra alimentación,29/07/2025,"39,12€",Food,Expenses
+Pequeño ocio,29/07/2025,"7,00€",Leisure,Expenses
+Gasto alimentación,16/07/2025,"3,30€",Food,Expenses
+Compra alimentación,15/07/2025,"19,50€",Food,Expenses
+Factura pequeña,14/07/2025,"8,08€",Invoice,Expenses
+Pequeño ocio,10/07/2025,"5,00€",Leisure,Expenses
+Nómina mensual,03/07/2025,"613,99€",Salary,Income
+Entretenimiento,02/07/2025,"19,00€",Leisure,Expenses
+Pequeña inversión,01/07/2025,"40,00€",Investment,Expenses
+Viaje o vacaciones,29/06/2025,"395,00€","Leisure, Vacations",Expenses
+Factura servicio,26/06/2025,"22,00€",Invoice,Expenses
+Gasto alimentación,26/06/2025,"5,75€",Food,Expenses
+Actividad ocio,21/06/2025,"59,77€",Leisure,Expenses
+Compra supermercado,21/06/2025,"44,60€",Food,Expenses
+Factura servicio,21/06/2025,"23,00€",Invoice,Expenses
+Factura pequeña,21/06/2025,"7,50€",Invoice,Expenses
+Factura pequeña,20/06/2025,"11,50€",Invoice,Expenses
+Microfactura,20/06/2025,"2,00€",Invoice,Expenses
+Gasto alimentación,14/06/2025,"13,25€",Food,Expenses
+Viaje o vacaciones,13/06/2025,"395,00€","Leisure, Vacations",Expenses
+Nómina mensual,11/06/2025,"25,00€",Salary,Income
+Microfactura,09/06/2025,"4,74€",Invoice,Expenses
+Nómina mensual,08/06/2025,"75,00€",Salary,Income
+Pequeño ocio,07/06/2025,"8,50€",Leisure,Expenses
+Pequeño ocio,07/06/2025,"5,88€",Leisure,Expenses
+Gasto alimentación,05/06/2025,"12,90€",Food,Expenses
+Factura pequeña,05/06/2025,"8,00€",Invoice,Expenses
+Pequeña inversión,01/06/2025,"20,00€",Investment,Expenses
+Factura pequeña,01/06/2025,"7,20€",Invoice,Expenses
+Pequeño ocio,31/05/2025,"3,10€",Leisure,Expenses
+Nómina mensual,30/05/2025,"30,00€",Salary,Income
+Entretenimiento,30/05/2025,"18,00€",Leisure,Expenses
+Gasto alimentación,29/05/2025,"12,00€",Food,Expenses
+Factura pequeña,28/05/2025,"9,50€",Invoice,Expenses
+Entretenimiento,24/05/2025,"15,00€",Leisure,Expenses
+Nómina mensual,18/05/2025,"25,00€",Salary,Income
+Gasto alimentación,16/05/2025,"13,00€",Food,Expenses
+Microfactura,13/05/2025,"1,09€",Invoice,Expenses
+Factura pequeña,04/05/2025,"5,50€",Invoice,Expenses
+Compra alimentación,02/05/2025,"21,95€",Food,Expenses
+Factura pequeña,02/05/2025,"8,00€",Invoice,Expenses
+Gasto alimentación,02/05/2025,"4,29€",Food,Expenses
+Pequeño ocio,02/05/2025,"3,70€",Leisure,Expenses
+Gasto alimentación,02/05/2025,"2,75€",Food,Expenses
+Pequeña inversión,01/05/2025,"40,00€",Investment,Expenses
+Factura servicio,26/04/2025,"72,73€",Invoice,Expenses
+Factura pequeña,22/04/2025,"7,50€",Invoice,Expenses
+Nómina mensual,22/04/2025,"7,00€",Salary,Income
+Factura pequeña,19/04/2025,"10,00€",Invoice,Expenses
+Factura pequeña,19/04/2025,"5,00€",Invoice,Expenses
+Pequeño ocio,16/04/2025,"2,56€",Leisure,Expenses
+Compra supermercado,12/04/2025,"40,00€",Food,Expenses
+Pequeño ocio,07/04/2025,"3,50€",Leisure,Expenses
+Nómina mensual,06/04/2025,"25,00€",Salary,Income
+Microfactura,03/04/2025,"1,00€",Invoice,Expenses
+Pequeño ingreso,01/04/2025,"50,00€",Deposit,Income
+Pequeña inversión,01/04/2025,"20,00€",Investment,Expenses
+Factura pequeña,30/03/2025,"11,70€",Invoice,Expenses
+Microfactura,29/03/2025,"0,42€",Invoice,Expenses
+Entretenimiento,21/03/2025,"26,10€",Leisure,Expenses
+Entretenimiento,20/03/2025,"17,50€",Leisure,Expenses
+Nómina mensual,08/03/2025,"25,00€",Salary,Income
+Entretenimiento,07/03/2025,"21,17€",Leisure,Expenses
+Pequeño ingreso,02/03/2025,"50,00€",Deposit,Income
+Pequeña inversión,01/03/2025,"40,00€",Investment,Expenses
+Pequeño ingreso,28/02/2025,"4,15€",Deposit,Income
+Pequeño ingreso,25/02/2025,"16,61€",Deposit,Income
+Nómina mensual,22/02/2025,"25,00€",Salary,Income
+Gasto alimentación,21/02/2025,"6,75€",Food,Expenses
+Compra supermercado,14/02/2025,"64,60€",Food,Expenses
+Factura pequeña,14/02/2025,"6,10€",Invoice,Expenses
+Pequeño ocio,13/02/2025,"7,50€",Leisure,Expenses
+Pequeño ocio,13/02/2025,"4,10€",Leisure,Expenses
+Factura pequeña,11/02/2025,"10,00€",Invoice,Expenses
+Microfactura,05/02/2025,"3,37€",Invoice,Expenses
+Nómina mensual,02/02/2025,"25,00€",Salary,Income
+Pequeño ocio,02/02/2025,"4,00€",Leisure,Expenses
+Pequeña inversión,01/02/2025,"20,00€",Investment,Expenses
+Microfactura,01/02/2025,"3,50€",Invoice,Expenses
+Compra alimentación,27/01/2025,"19,24€",Food,Expenses
+Pequeño ocio,26/01/2025,"4,00€",Leisure,Expenses
+Microfactura,21/01/2025,"0,55€",Invoice,Expenses
+Entretenimiento,17/01/2025,"12,00€",Leisure,Expenses
+Gasto alimentación,17/01/2025,"11,43€",Food,Expenses
+Factura pequeña,15/01/2025,"8,50€",Invoice,Expenses
+Actividad ocio,11/01/2025,"33,00€",Leisure,Expenses
+Nómina mensual,11/01/2025,"27,00€",Salary,Income
+Pequeño ingreso,02/01/2025,"50,00€",Deposit,Income
+Pequeña inversión,01/01/2025,"20,00€",Investment,Expenses
+Entretenimiento,31/12/2024,"10,00€",Leisure,Expenses
+Gasto alimentación,31/12/2024,"3,70€",Food,Expenses
+Entretenimiento,30/12/2024,"21,74€",Leisure,Expenses
+Pequeño ocio,23/12/2024,"8,34€",Leisure,Expenses
+Gasto alimentación,23/12/2024,"3,60€",Food,Expenses
+Compra alimentación,22/12/2024,"26,10€",Food,Expenses
+Factura servicio,21/12/2024,"78,92€",Invoice,Expenses
+Nómina mensual,15/12/2024,"25,00€",Salary,Income
+Microfactura,15/12/2024,"1,69€",Invoice,Expenses
+Gasto alimentación,13/12/2024,"11,95€",Food,Expenses
+Ingreso depósito,10/12/2024,"400,00€",Deposit,Income
+Pequeño ingreso,10/12/2024,"50,00€",Deposit,Income
+Pequeño ocio,8/12/2024,"9,40€",Leisure,Expenses
+Pequeño ocio,5/12/2024,"8,00€",Leisure,Expenses
+Gasto alimentación,3/12/2024,"6,75€",Food,Expenses
+Pequeño ocio,2/12/2024,"3,10€",Leisure,Expenses
+Pequeña inversión,1/12/2024,"20,00€",Investment,Expenses
+Entretenimiento,1/12/2024,"12,00€",Leisure,Expenses
+Microfactura,30/11/2024,"1,10€",Invoice,Expenses
+Gasto alimentación,22/11/2024,"5,20€",Food,Expenses
+Gasto alimentación,11/11/2024,"6,75€",Food,Expenses
+Compra alimentación,9/11/2024,"18,10€",Food,Expenses
+Gasto alimentación,8/11/2024,"13,90€",Food,Expenses
+Microfactura,5/11/2024,"4,90€",Invoice,Expenses
+Ingreso depósito,2/11/2024,"400,00€",Deposit,Income
+Pequeña inversión,1/11/2024,"20,00€",Investment,Expenses
+Compra alimentación,31/10/2024,"19,05€",Food,Expenses
+Nómina mensual,27/10/2024,"25,00€",Salary,Income
+Entretenimiento,25/10/2024,"13,00€",Leisure,Expenses
+Nómina mensual,19/10/2024,"25,00€",Salary,Income
+Compra alimentación,19/10/2024,"19,35€",Food,Expenses
+Gasto alimentación,19/10/2024,"5,00€",Food,Expenses
+Factura pequeña,13/10/2024,"16,00€",Invoice,Expenses
+Pequeño ocio,11/10/2024,"1,00€",Leisure,Expenses
+Compra alimentación,8/10/2024,"16,80€",Food,Expenses
+Entretenimiento,8/10/2024,"14,40€",Leisure,Expenses
+Factura pequeña,6/10/2024,"8,00€",Invoice,Expenses
+Pequeño ingreso,1/10/2024,"50,00€",Deposit,Income
+Pequeña inversión,1/10/2024,"20,00€",Investment,Expenses
+Nómina mensual,28/09/2024,"30,00€",Salary,Income
+Entretenimiento,26/09/2024,"18,00€",Leisure,Expenses
+Factura pequeña,23/09/2024,"6,00€",Invoice,Expenses
+Nómina mensual,16/09/2024,"25,00€",Salary,Income
+Factura pequeña,13/09/2024,"12,00€",Invoice,Expenses
+Gasto ocio mayor,07/09/2024,"203,58€",Leisure,Expenses
+Factura pequeña,07/09/2024,"8,00€",Invoice,Expenses
+Microfactura,07/09/2024,"2,00€",Invoice,Expenses
+Viaje o vacaciones,05/09/2024,"395,80€","Leisure, Vacations",Expenses
+Gasto vacaciones,05/09/2024,"19,50€","Leisure, Vacations",Expenses
+Pequeño ingreso,02/09/2024,"150,00€",Deposit,Income
+Pequeña inversión,02/09/2024,"20,00€",Investment,Expenses
+Gasto alimentación,29/08/2024,"13,90€",Food,Expenses
+Factura pequeña,27/08/2024,"9,27€",Invoice,Expenses
+Microfactura,26/08/2024,"4,49€",Invoice,Expenses
+Factura pequeña,23/08/2024,"9,95€",Invoice,Expenses
+Nómina mensual,15/08/2024,"845,69€",Salary,Income
+Pequeña inversión,14/08/2024,"40,00€",Investment,Expenses
+Microfactura,14/08/2024,"3,95€",Invoice,Expenses
+Actividad ocio,12/08/2024,"46,00€",Leisure,Expenses
+Microfactura,11/08/2024,"1,05€",Invoice,Expenses
+Microfactura,07/08/2024,"4,00€",Invoice,Expenses
+Pequeño ocio,02/08/2024,"8,50€",Leisure,Expenses
+Compra alimentación,01/08/2024,"20,00€",Food,Expenses
+Nómina mensual,31/07/2024,"1.842,17€",Salary,Income
+Nómina mensual,31/07/2024,"837,84€",Salary,Income
+Compra alimentación,30/07/2024,"16,46€",Food,Expenses
+Factura pequeña,30/07/2024,"5,00€",Invoice,Expenses
+Gasto alimentación,19/07/2024,"5,50€",Food,Expenses
+Compra alimentación,16/07/2024,"15,00€",Food,Expenses
+Compra supermercado,13/07/2024,"41,50€",Food,Expenses
+Factura importante,05/07/2024,"795,00€",Invoice,Expenses
+Pequeña inversión,01/07/2024,"20,00€",Investment,Expenses
+Gasto alimentación,28/06/2024,"5,50€",Food,Expenses
+Factura pequeña,25/06/2024,"7,50€",Invoice,Expenses
+Compra alimentación,22/06/2024,"26,22€",Food,Expenses
+Pequeño ocio,22/06/2024,"9,50€",Leisure,Expenses
+Factura pequeña,18/06/2024,"8,20€",Invoice,Expenses
+Factura servicio,14/06/2024,"40,00€",Invoice,Expenses
+Factura pequeña,14/06/2024,"11,00€",Invoice,Expenses
+Nómina mensual,07/06/2024,"25,00€",Salary,Income
+Gasto alimentación,06/06/2024,"14,90€",Food,Expenses
+Gasto alimentación,06/06/2024,"8,00€",Food,Expenses
+Gasto alimentación,06/06/2024,"6,00€",Food,Expenses
+Pequeño ingreso,05/06/2024,"50,00€",Deposit,Income
+Gasto alimentación,02/06/2024,"12,90€",Food,Expenses
+Pequeña inversión,01/06/2024,"20,00€",Investment,Expenses
+Microfactura,31/05/2024,"2,85€",Invoice,Expenses
+Compra alimentación,26/05/2024,"16,00€",Food,Expenses
+Gasto alimentación,25/05/2024,"11,00€",Food,Expenses
+Gasto alimentación,24/05/2024,"6,75€",Food,Expenses
+Actividad ocio,17/05/2024,"42,00€",Leisure,Expenses
+Factura pequeña,17/05/2024,"8,00€",Invoice,Expenses
+Pequeño ocio,11/05/2024,"7,42€",Leisure,Expenses
+Microfactura,11/05/2024,"3,29€",Invoice,Expenses
+Pequeño ingreso,03/05/2024,"50,00€",Deposit,Income
+Pequeña inversión,01/05/2024,"40,00€",Investment,Expenses
+Factura servicio,27/04/2024,"30,00€",Invoice,Expenses
+Pequeño ocio,21/04/2024,"6,40€",Leisure,Expenses
+Nómina mensual,20/04/2024,"30,00€",Salary,Income
+Gasto alimentación,17/04/2024,"11,55€",Food,Expenses
+Factura pequeña,17/04/2024,"8,00€",Invoice,Expenses
+Nómina mensual,14/04/2024,"21,80€",Salary,Income
+Gasto alimentación,10/04/2024,"2,50€",Food,Expenses
+Factura pequeña,08/04/2024,"14,99€",Invoice,Expenses
+Pequeño ingreso,05/04/2024,"50,00€",Deposit,Income
+Pequeña inversión,01/04/2024,"20,00€",Investment,Expenses
+Gasto vacaciones,29/03/2024,"166,45€","Leisure, Vacations",Expenses
+Factura pequeña,29/03/2024,"5,50€",Invoice,Expenses
+Entretenimiento,24/03/2024,"24,00€",Leisure,Expenses
+Factura servicio,21/03/2024,"39,69€",Invoice,Expenses
+Microfactura,21/03/2024,"1,00€",Invoice,Expenses
+Factura pequeña,18/03/2024,"8,00€",Invoice,Expenses
+Compra alimentación,16/03/2024,"20,47€",Food,Expenses
+Compra alimentación,11/03/2024,"19,85€",Food,Expenses
+Nómina mensual,09/03/2024,"50,00€",Salary,Income
+Nómina mensual,03/03/2024,"25,00€",Salary,Income
+Pequeño ingreso,01/03/2024,"50,00€",Deposit,Income
+Pequeña inversión,01/03/2024,"20,00€",Investment,Expenses
+Compra alimentación,24/02/2024,"18,10€",Food,Expenses
+Pequeño ingreso,18/02/2024,"70,00€",Deposit,Income
+Compra alimentación,17/02/2024,"38,20€",Food,Expenses
+Compra alimentación,14/02/2024,"21,00€",Food,Expenses
+Factura servicio,14/02/2024,"20,00€",Invoice,Expenses
+Factura pequeña,14/02/2024,"8,32€",Invoice,Expenses
+Factura pequeña,14/02/2024,"8,00€",Invoice,Expenses
+Gasto alimentación,12/02/2024,"2,60€",Food,Expenses
+Compra alimentación,10/02/2024,"19,40€",Food,Expenses
+Microfactura,10/02/2024,"1,80€",Invoice,Expenses
+Pequeño ingreso,05/02/2024,"50,00€",Deposit,Income
+Gasto alimentación,05/02/2024,"10,10€",Food,Expenses
+Gasto alimentación,05/02/2024,"4,65€",Food,Expenses
+Factura pequeña,04/02/2024,"6,00€",Invoice,Expenses
+Gasto alimentación,04/02/2024,"5,12€",Food,Expenses
+Gasto alimentación,03/02/2024,"14,60€",Food,Expenses
+Pequeña inversión,01/02/2024,"20,00€",Investment,Expenses
+Factura pequeña,23/01/2024,"7,95€",Invoice,Expenses
+Factura pequeña,22/01/2024,"14,50€",Invoice,Expenses
+Factura pequeña,22/01/2024,"7,00€",Invoice,Expenses
+Factura pequeña,19/01/2024,"9,00€",Invoice,Expenses
+Pequeño ingreso,13/01/2024,"50,00€",Deposit,Income
+Factura pequeña,12/01/2024,"6,20€",Invoice,Expenses
+Pequeño ingreso,08/01/2024,"100,00€",Deposit,Income
+Factura servicio,03/01/2024,"46,80€",Invoice,Expenses
+Pequeño ocio,02/01/2024,"3,00€",Leisure,Expenses
+Pequeña inversión,01/01/2024,"20,00€",Investment,Expenses
+Pequeño ingreso,25/12/2023,"50,00€",Deposit,Income
+Factura servicio,24/12/2023,"48,84€",Invoice,Expenses
+Gasto alimentación,24/12/2023,"12,95€",Food,Expenses
+Factura pequeña,24/12/2023,"12,50€",Invoice,Expenses
+Nómina mensual,24/12/2023,"10,00€",Salary,Income
+Gasto alimentación,23/12/2023,"3,40€",Food,Expenses
+Entretenimiento,21/12/2023,"25,00€",Leisure,Expenses
+Nómina mensual,16/12/2023,"25,00€",Salary,Income
+Pequeño ingreso,15/12/2023,"50,00€",Deposit,Income
+Compra alimentación,15/12/2023,"17,30€",Food,Expenses
+Gasto alimentación,15/12/2023,"6,20€",Food,Expenses
+Gasto alimentación,14/12/2023,"2,49€",Food,Expenses
+Gasto alimentación,7/12/2023,"4,11€",Food,Expenses
+Entretenimiento,3/12/2023,"25,00€",Leisure,Expenses
+Factura pequeña,3/12/2023,"9,15€",Invoice,Expenses
+Factura pequeña,2/12/2023,"5,00€",Invoice,Expenses
+Pequeña inversión,1/12/2023,"20,00€",Investment,Expenses
+Entretenimiento,28/11/2023,"18,00€",Leisure,Expenses
+Nómina mensual,26/11/2023,"25,00€",Salary,Income
+Gasto alimentación,26/11/2023,"1,60€",Food,Expenses
+Factura pequeña,25/11/2023,"11,01€",Invoice,Expenses
+Gasto alimentación,25/11/2023,"7,00€",Food,Expenses
+Gasto alimentación,20/11/2023,"6,30€",Food,Expenses
+Pequeño ocio,17/11/2023,"8,40€",Leisure,Expenses
+Entretenimiento,16/11/2023,"11,00€",Leisure,Expenses
+Factura pequeña,14/11/2023,"6,40€",Invoice,Expenses
+Nómina mensual,11/11/2023,"40,00€",Salary,Income
+Compra alimentación,11/11/2023,"20,00€",Food,Expenses
+Microfactura,2/11/2023,"2,10€",Invoice,Expenses
+Pequeña inversión,1/11/2023,"20,00€",Investment,Expenses
+Gasto alimentación,29/10/2023,"6,00€",Food,Expenses
+Microfactura,28/10/2023,"3,00€",Invoice,Expenses
+Gasto alimentación,27/10/2023,"5,02€",Food,Expenses
+Nómina mensual,21/10/2023,"25,00€",Salary,Income
+Pequeño ingreso,14/10/2023,"40,00€",Deposit,Income
+Entretenimiento,12/10/2023,"21,60€",Leisure,Expenses
+Entretenimiento,12/10/2023,"14,00€",Leisure,Expenses
+Gasto alimentación,12/10/2023,"14,00€",Food,Expenses
+Pequeño ocio,12/10/2023,"6,95€",Leisure,Expenses
+Microfactura,12/10/2023,"3,40€",Invoice,Expenses
+Factura servicio,9/10/2023,"70,00€",Invoice,Expenses
+Pequeño ocio,2/10/2023,"7,00€",Leisure,Expenses
+Nómina mensual,1/10/2023,"25,00€",Salary,Income
+Pequeña inversión,1/10/2023,"20,00€",Investment,Expenses
+Pequeño ocio,1/10/2023,"4,00€",Leisure,Expenses
+Pequeño ocio,1/10/2023,"4,00€",Leisure,Expenses
+Compra alimentación,29/09/2023,"20,00€",Food,Expenses
+Nómina mensual,23/09/2023,"25,00€",Salary,Income
+Pequeño ingreso,20/09/2023,"50,00€",Deposit,Income
+Pequeño ocio,17/09/2023,"2,50€",Leisure,Expenses
+Pequeño ocio,16/09/2023,"9,80€",Leisure,Expenses
+Pequeño ocio,08/09/2023,"2,70€",Leisure,Expenses
+Gasto alimentación,05/09/2023,"7,00€",Food,Expenses
+Pequeño ocio,04/09/2023,"3,50€",Leisure,Expenses
+Pequeña inversión,01/09/2023,"20,00€",Investment,Expenses
+Actividad ocio,31/08/2023,"38,43€",Leisure,Expenses
+Compra alimentación,31/08/2023,"26,15€",Food,Expenses
+Pequeño ingreso,31/08/2023,"25,00€",Deposit,Income
+Compra alimentación,29/08/2023,"20,00€",Food,Expenses
+Entretenimiento,28/08/2023,"13,80€",Leisure,Expenses
+Pequeño ingreso,24/08/2023,"10,00€",Deposit,Income
+Nómina mensual,18/08/2023,"759,41€",Salary,Income
+Pequeña inversión,17/08/2023,"20,00€",Investment,Expenses
+Factura pequeña,16/08/2023,"6,40€",Invoice,Expenses
+Gasto alimentación,14/08/2023,"13,80€",Food,Expenses
+Nómina mensual,01/08/2023,"792,10€",Salary,Income
+Factura pequeña,01/08/2023,"8,00€",Invoice,Expenses
+Entretenimiento,30/07/2023,"10,50€",Leisure,Expenses
+Gasto alimentación,18/07/2023,"9,50€",Food,Expenses
+Compra alimentación,17/07/2023,"15,00€",Food,Expenses
+"Gasto food, vacations",14/07/2023,"7,80€","Food, Vacations",Expenses
+"Gasto invoice, vacations",14/07/2023,"2,40€","Invoice, Vacations",Expenses
+"Gasto invoice, vacations",13/07/2023,"10,00€","Invoice, Vacations",Expenses
+"Gasto food, vacations",13/07/2023,"6,00€","Food, Vacations",Expenses
+"Gasto food, vacations",13/07/2023,"5,20€","Food, Vacations",Expenses
+Gasto vacaciones,13/07/2023,"2,00€","Leisure, Vacations",Expenses
+"Gasto invoice, vacations",13/07/2023,"1,50€","Invoice, Vacations",Expenses
+Gasto vacaciones,12/07/2023,"1,20€","Leisure, Vacations",Expenses
+Pequeña inversión,01/07/2023,"20,00€",Investment,Expenses
+Factura pequeña,29/06/2023,"6,40€",Invoice,Expenses
+Pequeño ingreso,28/06/2023,"20,00€",Deposit,Income
+Compra alimentación,28/06/2023,"16,75€",Food,Expenses
+Microfactura,28/06/2023,"2,25€",Invoice,Expenses
+Pequeño ocio,26/06/2023,"3,50€",Leisure,Expenses
+Factura pequeña,23/06/2023,"15,00€",Invoice,Expenses
+Factura servicio,18/06/2023,"47,25€",Invoice,Expenses
+Microfactura,18/06/2023,"2,40€",Invoice,Expenses
+Factura pequeña,17/06/2023,"16,35€",Invoice,Expenses
+Microfactura,17/06/2023,"0,65€",Invoice,Expenses
+Pequeño ingreso,16/06/2023,"100,00€",Deposit,Income
+Nómina mensual,16/06/2023,"80,00€",Salary,Income
+Gasto alimentación,16/06/2023,"13,00€",Food,Expenses
+Entretenimiento,09/06/2023,"17,63€",Leisure,Expenses
+Gasto alimentación,08/06/2023,"11,40€",Food,Expenses
+Entretenimiento,06/06/2023,"15,83€",Leisure,Expenses
+Nómina mensual,02/06/2023,"55,00€",Salary,Income
+Pequeña inversión,01/06/2023,"20,00€",Investment,Expenses
+Nómina mensual,29/05/2023,"86,00€",Salary,Income
+Factura pequeña,29/05/2023,"6,40€",Invoice,Expenses
+Nómina mensual,28/05/2023,"25,00€",Salary,Income
+Entretenimiento,27/05/2023,"11,30€",Leisure,Expenses
+Gasto alimentación,26/05/2023,"8,00€",Food,Expenses
+Nómina mensual,25/05/2023,"155,00€",Salary,Income
+Gasto alimentación,23/05/2023,"7,20€",Food,Expenses
+Entretenimiento,19/05/2023,"10,00€",Leisure,Expenses
+Gasto alimentación,19/05/2023,"6,20€",Food,Expenses
+Nómina mensual,14/05/2023,"30,00€",Salary,Income
+Pequeño ingreso,04/05/2023,"100,00€",Deposit,Income
+Pequeña inversión,01/05/2023,"20,00€",Investment,Expenses
+Pequeño ocio,01/05/2023,"5,90€",Leisure,Expenses
+Gasto alimentación,28/04/2023,"11,80€",Food,Expenses
+Nómina mensual,27/04/2023,"92,00€",Salary,Income
+Nómina mensual,27/04/2023,"50,00€",Salary,Income
+Factura servicio,25/04/2023,"36,60€",Invoice,Expenses
+Gasto alimentación,22/04/2023,"3,00€",Food,Expenses
+Gasto alimentación,21/04/2023,"4,85€",Food,Expenses
+Entretenimiento,20/04/2023,"15,80€",Leisure,Expenses
+Factura servicio,18/04/2023,"90,00€",Invoice,Expenses
+Pequeño ocio,16/04/2023,"2,70€",Leisure,Expenses
+Nómina mensual,15/04/2023,"55,00€",Salary,Income
+Gasto alimentación,14/04/2023,"6,20€",Food,Expenses
+Pequeño ingreso,12/04/2023,"110,00€",Deposit,Income
+Pequeño ocio,09/04/2023,"9,50€",Leisure,Expenses
+Gasto alimentación,31/03/2023,"6,20€",Food,Expenses
+Factura pequeña,30/03/2023,"6,40€",Invoice,Expenses
+Nómina mensual,29/03/2023,"85,00€",Salary,Income
+Microfactura,28/03/2023,"0,47€",Invoice,Expenses
+Factura importante,26/03/2023,"839,99€",Invoice,Expenses
+Nómina mensual,26/03/2023,"80,00€",Salary,Income
+Gasto vacaciones,26/03/2023,"72,00€","Leisure, Vacations",Expenses
+Gasto alimentación,24/03/2023,"6,20€",Food,Expenses
+Factura pequeña,23/03/2023,"8,18€",Invoice,Expenses
+Microfactura,20/03/2023,"1,29€",Invoice,Expenses
+Gasto alimentación,17/03/2023,"6,20€",Food,Expenses
+Pequeño ocio,11/03/2023,"2,70€",Leisure,Expenses
+Nómina mensual,10/03/2023,"30,00€",Salary,Income
+Gasto alimentación,10/03/2023,"6,20€",Food,Expenses
+Pequeño ingreso,05/03/2023,"100,00€",Deposit,Income
+Nómina mensual,05/03/2023,"25,00€",Salary,Income
+Compra alimentación,05/03/2023,"17,50€",Food,Expenses
+Pequeño ocio,04/03/2023,"1,70€",Leisure,Expenses
+Gasto alimentación,03/03/2023,"6,20€",Food,Expenses
+Pequeña inversión,01/03/2023,"20,00€",Investment,Expenses
+Factura pequeña,28/02/2023,"6,40€",Invoice,Expenses
+Nómina mensual,27/02/2023,"99,00€",Salary,Income
+Gasto alimentación,26/02/2023,"1,75€",Food,Expenses
+Pequeño ingreso,24/02/2023,"20,00€",Deposit,Income
+Gasto alimentación,24/02/2023,"6,20€",Food,Expenses
+Pequeño ingreso,20/02/2023,"14,00€",Deposit,Income
+Gasto alimentación,19/02/2023,"7,60€",Food,Expenses
+Nómina mensual,18/02/2023,"25,00€",Salary,Income
+Entretenimiento,18/02/2023,"11,00€",Leisure,Expenses
+Factura pequeña,17/02/2023,"10,00€",Invoice,Expenses
+Gasto alimentación,17/02/2023,"6,20€",Food,Expenses
+Factura pequeña,10/02/2023,"14,06€",Invoice,Expenses
+Pequeño ingreso,07/02/2023,"30,00€",Deposit,Income
+Pequeño ingreso,05/02/2023,"100,00€",Deposit,Income
+Entretenimiento,04/02/2023,"13,00€",Leisure,Expenses
+Gasto alimentación,04/02/2023,"9,20€",Food,Expenses
+Gasto alimentación,03/02/2023,"5,90€",Food,Expenses
+Nómina mensual,01/02/2023,"82,00€",Salary,Income
+Pequeña inversión,01/02/2023,"20,00€",Investment,Expenses
+Gasto alimentación,31/01/2023,"5,90€",Food,Expenses
+Gasto alimentación,31/01/2023,"4,00€",Food,Expenses
+Actividad ocio,29/01/2023,"35,00€",Leisure,Expenses
+Compra alimentación,29/01/2023,"22,00€",Food,Expenses
+Factura pequeña,29/01/2023,"8,00€",Invoice,Expenses
+Nómina mensual,27/01/2023,"23,00€",Salary,Income
+Gasto alimentación,26/01/2023,"5,90€",Food,Expenses
+Microfactura,22/01/2023,"3,00€",Invoice,Expenses
+Microfactura,20/01/2023,"1,96€",Invoice,Expenses
+Microfactura,19/01/2023,"0,82€",Invoice,Expenses
+Pequeño ingreso,17/01/2023,"30,00€",Deposit,Income
+Pequeño ingreso,15/01/2023,"100,00€",Deposit,Income
+Gasto alimentación,15/01/2023,"13,95€",Food,Expenses
+Factura servicio,14/01/2023,"35,60€",Invoice,Expenses
+Factura servicio,11/01/2023,"50,00€",Invoice,Expenses
+Pequeño ocio,05/01/2023,"7,80€",Leisure,Expenses
+Factura servicio,04/01/2023,"20,00€",Invoice,Expenses
+Pequeña inversión,01/01/2023,"20,00€",Investment,Expenses
+Pequeño ingreso,01/01/2023,"10,00€",Deposit,Income
+Pequeño ocio,31/12/2022,"4,00€",Leisure,Expenses
+Pequeño ingreso,30/12/2022,"50,00€",Deposit,Income
+Gasto alimentación,30/12/2022,"9,00€",Food,Expenses
+Factura pequeña,30/12/2022,"8,00€",Invoice,Expenses
+Gasto alimentación,30/12/2022,"7,05€",Food,Expenses
+Pequeño ocio,28/12/2022,"9,00€",Leisure,Expenses
+Nómina mensual,23/12/2022,"93,00€",Salary,Income
+Compra alimentación,22/12/2022,"15,00€",Food,Expenses
+Nómina mensual,18/12/2022,"32,00€",Salary,Income
+Compra alimentación,18/12/2022,"16,00€",Food,Expenses
+Pequeño ocio,18/12/2022,"7,90€",Leisure,Expenses
+Factura pequeña,18/12/2022,"6,00€",Invoice,Expenses
+Factura servicio,17/12/2022,"80,00€",Invoice,Expenses
+Gasto alimentación,16/12/2022,"5,90€",Food,Expenses
+Factura importante,11/12/2022,"218,87€",Invoice,Expenses
+Factura pequeña,7/12/2022,"7,61€",Invoice,Expenses
+Pequeño ocio,3/12/2022,"1,08€",Leisure,Expenses
+Pequeño ingreso,2/12/2022,"10,00€",Deposit,Income
+Gasto alimentación,2/12/2022,"5,90€",Food,Expenses
+Pequeña inversión,1/12/2022,"20,00€",Investment,Expenses
+Nómina mensual,29/11/2022,"83,00€",Salary,Income
+Factura pequeña,29/11/2022,"8,00€",Invoice,Expenses
+Microfactura,29/11/2022,"3,00€",Invoice,Expenses
+Pequeño ingreso,28/11/2022,"20,00€",Deposit,Income
+Nómina mensual,27/11/2022,"23,00€",Salary,Income
+Pequeño ocio,27/11/2022,"5,87€",Leisure,Expenses
+Compra alimentación,26/11/2022,"32,30€",Food,Expenses
+Pequeño ocio,26/11/2022,"3,00€",Leisure,Expenses
+Pequeño ocio,24/11/2022,"5,00€",Leisure,Expenses
+Pequeño ocio,24/11/2022,"3,00€",Leisure,Expenses
+Gasto alimentación,18/11/2022,"5,90€",Food,Expenses
+Entretenimiento,17/11/2022,"20,00€",Leisure,Expenses
+Gasto alimentación,17/11/2022,"7,78€",Food,Expenses
+Microfactura,15/11/2022,"3,18€",Invoice,Expenses
+Pequeña inversión,14/11/2022,"15,00€",Investment,Expenses
+Nómina mensual,12/11/2022,"31,00€",Salary,Income
+Gasto alimentación,11/11/2022,"5,90€",Food,Expenses
+Microfactura,9/11/2022,"0,79€",Invoice,Expenses
+Nómina mensual,8/11/2022,"23,00€",Salary,Income
+Gasto alimentación,8/11/2022,"1,69€",Food,Expenses
+Microfactura,6/11/2022,"1,00€",Invoice,Expenses
+Microfactura,5/11/2022,"2,35€",Invoice,Expenses
+Gasto alimentación,4/11/2022,"5,90€",Food,Expenses
+Pequeño ocio,4/11/2022,"2,00€",Leisure,Expenses
+Pequeño ingreso,4/11/2022,"0,10€",Deposit,Income
+Pequeña inversión,1/11/2022,"20,00€",Investment,Expenses
+Nómina mensual,31/10/2022,"100,00€",Salary,Income
+Pequeño ocio,29/10/2022,"3,65€",Leisure,Expenses
+Gasto alimentación,28/10/2022,"5,90€",Food,Expenses
+Entretenimiento,26/10/2022,"10,00€",Leisure,Expenses
+Pequeño ingreso,24/10/2022,"20,00€",Deposit,Income
+Microfactura,24/10/2022,"1,45€",Invoice,Expenses
+Pequeño ocio,23/10/2022,"1,79€",Leisure,Expenses
+Nómina mensual,22/10/2022,"27,00€",Salary,Income
+Gasto alimentación,22/10/2022,"12,70€",Food,Expenses
+Gasto alimentación,21/10/2022,"5,90€",Food,Expenses
+Compra alimentación,15/10/2022,"25,35€",Food,Expenses
+Gasto alimentación,14/10/2022,"4,10€",Food,Expenses
+Pequeño ingreso,13/10/2022,"4,50€",Deposit,Income
+Gasto alimentación,7/10/2022,"5,90€",Food,Expenses
+Pequeño ocio,2/10/2022,"1,00€",Leisure,Expenses
+Factura pequeña,1/10/2022,"8,00€",Invoice,Expenses
+Pequeño ingreso,30/09/2022,"50,00€",Deposit,Income
+Nómina mensual,30/09/2022,"32,00€",Salary,Income
+Microfactura,30/09/2022,"1,45€",Invoice,Expenses
+Entretenimiento,29/09/2022,"27,50€",Leisure,Expenses
+Entretenimiento,25/09/2022,"11,95€",Leisure,Expenses
+Microfactura,25/09/2022,"2,00€",Invoice,Expenses
+Actividad ocio,22/09/2022,"63,20€",Leisure,Expenses
+Pequeño ingreso,22/09/2022,"20,00€",Deposit,Income
+Nómina mensual,21/09/2022,"23,00€",Salary,Income
+Microfactura,16/09/2022,"2,15€",Invoice,Expenses
+Pequeño ingreso,12/09/2022,"20,00€",Deposit,Income
+Factura pequeña,12/09/2022,"8,90€",Invoice,Expenses
+Entretenimiento,11/09/2022,"19,95€",Leisure,Expenses
+Entretenimiento,10/09/2022,"21,81€",Leisure,Expenses
+Factura pequeña,10/09/2022,"15,00€",Invoice,Expenses
+Entretenimiento,08/09/2022,"21,00€",Leisure,Expenses
+Pequeño ocio,08/09/2022,"8,80€",Leisure,Expenses
+Entretenimiento,06/09/2022,"15,98€",Leisure,Expenses
+Factura pequeña,06/09/2022,"7,15€",Invoice,Expenses
+Nómina mensual,05/09/2022,"457,74€",Salary,Income
+Microfactura,03/09/2022,"3,07€",Invoice,Expenses
+Pequeña inversión,01/09/2022,"20,00€",Investment,Expenses
+Pequeño ingreso,01/09/2022,"20,00€",Deposit,Income
+Factura pequeña,01/09/2022,"8,00€",Invoice,Expenses
+Pequeño ocio,31/08/2022,"1,20€",Leisure,Expenses
+Pequeño ingreso,28/08/2022,"40,00€",Deposit,Income
+Pequeño ocio,28/08/2022,"9,95€",Leisure,Expenses
+Nómina mensual,08/08/2022,"225,19€",Salary,Income
+Pequeña inversión,08/08/2022,"18,30€",Investment,Expenses
+Pequeño ocio,04/08/2022,"1,00€",Leisure,Expenses
+Aportación inversión,01/08/2022,"50,00€",Investment,Expenses
+Actividad ocio,01/08/2022,"33,40€",Leisure,Expenses
+Pequeña inversión,01/08/2022,"20,00€",Investment,Expenses
+Factura pequeña,01/08/2022,"16,00€",Invoice,Expenses
+Entretenimiento,01/08/2022,"14,00€",Leisure,Expenses
+Microfactura,01/08/2022,"2,65€",Invoice,Expenses
+Microfactura,30/07/2022,"2,70€",Invoice,Expenses
+Nómina mensual,29/07/2022,"1.143,51€",Salary,Income
+Pequeño ocio,27/07/2022,"7,10€",Leisure,Expenses
+Microfactura,24/07/2022,"1,05€",Invoice,Expenses
+Pequeño ocio,21/07/2022,"7,79€",Leisure,Expenses
+Pequeño ingreso,19/07/2022,"5,00€",Deposit,Income
+Pequeño ingreso,16/07/2022,"50,00€",Deposit,Income
+Entretenimiento,16/07/2022,"28,45€",Leisure,Expenses
+Pequeño ocio,15/07/2022,"3,70€",Leisure,Expenses
+Pequeño ocio,13/07/2022,"7,10€",Leisure,Expenses
+Factura servicio,09/07/2022,"42,20€",Invoice,Expenses
+Entretenimiento,09/07/2022,"11,00€",Leisure,Expenses
+Microfactura,09/07/2022,"1,45€",Invoice,Expenses
+Pequeño ingreso,05/07/2022,"163,40€",Deposit,Income
+Factura servicio,05/07/2022,"30,00€",Invoice,Expenses
+Nómina mensual,04/07/2022,"234,54€",Salary,Income
+Factura pequeña,02/07/2022,"16,00€",Invoice,Expenses
+Pequeño ocio,02/07/2022,"3,65€",Leisure,Expenses
+Factura pequeña,30/06/2022,"6,95€",Invoice,Expenses
+Pequeño ocio,30/06/2022,"4,40€",Leisure,Expenses
+Pequeño ocio,30/06/2022,"4,28€",Leisure,Expenses
+Microfactura,29/06/2022,"1,45€",Invoice,Expenses
+Entretenimiento,28/06/2022,"14,00€",Leisure,Expenses
+Pequeño ocio,28/06/2022,"1,50€",Leisure,Expenses
+Factura servicio,26/06/2022,"25,74€",Invoice,Expenses
+Pequeño ocio,24/06/2022,"1,95€",Leisure,Expenses
+Microfactura,24/06/2022,"1,45€",Invoice,Expenses
+Nómina mensual,22/06/2022,"29,00€",Salary,Income
+Pequeño ingreso,20/06/2022,"50,00€",Deposit,Income
+Factura servicio,20/06/2022,"21,00€",Invoice,Expenses
+Nómina mensual,19/06/2022,"23,00€",Salary,Income
+Nómina mensual,18/06/2022,"23,00€",Salary,Income
+Pequeño ingreso,12/06/2022,"2,00€",Deposit,Income
+Entretenimiento,10/06/2022,"11,95€",Leisure,Expenses
+Microfactura,10/06/2022,"1,45€",Invoice,Expenses
+Microfactura,08/06/2022,"1,60€",Invoice,Expenses
+Nómina mensual,05/06/2022,"27,00€",Salary,Income
+Nómina mensual,05/06/2022,"23,00€",Salary,Income
+Pequeño ingreso,05/06/2022,"20,00€",Deposit,Income
+Factura pequeña,02/06/2022,"16,00€",Invoice,Expenses
+Pequeña inversión,01/06/2022,"30,00€",Investment,Expenses
+Pequeña inversión,01/06/2022,"30,00€",Investment,Expenses
+Gasto alimentación,01/06/2022,"7,30€",Food,Expenses
+"Gasto food, vacations",31/05/2022,"21,20€","Food, Vacations",Expenses
+"Gasto food, vacations",31/05/2022,"10,00€","Food, Vacations",Expenses
+"Gasto food, vacations",31/05/2022,"7,88€","Food, Vacations",Expenses
+Gasto vacaciones,31/05/2022,"6,00€","Leisure, Vacations",Expenses
+Gasto vacaciones,31/05/2022,"6,00€","Leisure, Vacations",Expenses
+"Gasto food, vacations",31/05/2022,"5,20€","Food, Vacations",Expenses
+"Gasto invoice, vacations",31/05/2022,"2,40€","Invoice, Vacations",Expenses
+Ingreso depósito,30/05/2022,"200,00€",Deposit,Income
+"Gasto invoice, vacations",30/05/2022,"54,43€","Invoice, Vacations",Expenses
+"Gasto food, vacations",30/05/2022,"17,23€","Food, Vacations",Expenses
+"Gasto food, vacations",30/05/2022,"3,10€","Food, Vacations",Expenses
+Gasto alimentación,28/05/2022,"4,76€",Food,Expenses
+Gasto alimentación,28/05/2022,"3,69€",Food,Expenses
+Factura servicio,26/05/2022,"44,34€",Invoice,Expenses
+Factura servicio,22/05/2022,"20,00€",Invoice,Expenses
+Microfactura,21/05/2022,"3,49€",Invoice,Expenses
+Aportación inversión,20/05/2022,"50,00€",Investment,Expenses
+Gasto alimentación,18/05/2022,"1,88€",Food,Expenses
+Gasto alimentación,16/05/2022,"3,68€",Food,Expenses
+Gasto alimentación,16/05/2022,"1,90€",Food,Expenses
+"Gasto food, vacations",15/05/2022,"12,00€","Food, Vacations",Expenses
+"Gasto invoice, vacations",15/05/2022,"6,10€","Invoice, Vacations",Expenses
+"Gasto food, vacations",15/05/2022,"6,00€","Food, Vacations",Expenses
+"Gasto food, vacations",15/05/2022,"3,80€","Food, Vacations",Expenses
+"Gasto food, vacations",14/05/2022,"22,00€","Food, Vacations",Expenses
+Gasto vacaciones,14/05/2022,"7,00€","Leisure, Vacations",Expenses
+Gasto vacaciones,14/05/2022,"5,00€","Leisure, Vacations",Expenses
+"Gasto food, vacations",14/05/2022,"3,50€","Food, Vacations",Expenses
+"Gasto food, vacations",14/05/2022,"3,50€","Food, Vacations",Expenses
+"Gasto invoice, vacations",14/05/2022,"1,00€","Invoice, Vacations",Expenses
+"Gasto invoice, vacations",13/05/2022,"36,00€","Invoice, Vacations",Expenses
+"Gasto invoice, vacations",13/05/2022,"6,70€","Invoice, Vacations",Expenses
+"Gasto food, vacations",13/05/2022,"2,70€","Food, Vacations",Expenses
+"Gasto invoice, vacations",12/05/2022,"109,85€","Invoice, Vacations",Expenses
+Compra supermercado,11/05/2022,"71,95€",Food,Expenses
+Pequeño ingreso,11/05/2022,"1,20€",Deposit,Income
+Gasto alimentación,09/05/2022,"7,06€",Food,Expenses
+Gasto alimentación,07/05/2022,"10,00€",Food,Expenses
+Factura pequeña,07/05/2022,"6,00€",Invoice,Expenses
+Gasto alimentación,06/05/2022,"8,05€",Food,Expenses
+Gasto alimentación,03/05/2022,"14,67€",Food,Expenses
+Gasto alimentación,02/05/2022,"5,19€",Food,Expenses
+Pequeña inversión,01/05/2022,"30,00€",Investment,Expenses
+Factura pequeña,01/05/2022,"10,00€",Invoice,Expenses
+"Gasto food, vacations",01/05/2022,"6,20€","Food, Vacations",Expenses
+"Gasto food, vacations",01/05/2022,"4,10€","Food, Vacations",Expenses
+"Gasto food, vacations",30/04/2022,"18,40€","Food, Vacations",Expenses
+Gasto vacaciones,30/04/2022,"1,90€","Leisure, Vacations",Expenses
+"Gasto invoice, vacations",30/04/2022,"1,00€","Invoice, Vacations",Expenses
+Gasto alimentación,27/04/2022,"2,88€",Food,Expenses
+Pequeño ocio,27/04/2022,"0,50€",Leisure,Expenses
+Compra supermercado,25/04/2022,"44,36€",Food,Expenses
+Pequeña inversión,25/04/2022,"25,00€",Investment,Expenses
+Factura pequeña,25/04/2022,"13,60€",Invoice,Expenses
+Pequeño ocio,25/04/2022,"1,00€",Leisure,Expenses
+"Gasto invoice, vacations",23/04/2022,"24,80€","Invoice, Vacations",Expenses
+Factura servicio,23/04/2022,"20,00€",Invoice,Expenses
+Gasto alimentación,23/04/2022,"2,19€",Food,Expenses
+Gasto alimentación,21/04/2022,"9,90€",Food,Expenses
+Pequeño ocio,19/04/2022,"0,50€",Leisure,Expenses
+Microfactura,16/04/2022,"1,00€",Invoice,Expenses
+Compra alimentación,13/04/2022,"32,35€",Food,Expenses
+Compra alimentación,11/04/2022,"15,36€",Food,Expenses
+Gasto alimentación,09/04/2022,"14,40€",Food,Expenses
+Factura pequeña,09/04/2022,"13,00€",Invoice,Expenses
+Factura pequeña,09/04/2022,"6,30€",Invoice,Expenses
+Pequeño ocio,09/04/2022,"1,90€",Leisure,Expenses
+Compra supermercado,08/04/2022,"47,52€",Food,Expenses
+Factura pequeña,05/04/2022,"15,00€",Invoice,Expenses
+Gasto alimentación,04/04/2022,"5,96€",Food,Expenses
+Pequeña inversión,01/04/2022,"30,00€",Investment,Expenses
+Gasto alimentación,30/03/2022,"1,88€",Food,Expenses
+Compra supermercado,26/03/2022,"121,11€",Food,Expenses
+Compra alimentación,24/03/2022,"29,21€",Food,Expenses
+Compra alimentación,22/03/2022,"31,70€",Food,Expenses
+Compra supermercado,19/03/2022,"55,91€",Food,Expenses
+Entretenimiento,18/03/2022,"10,50€",Leisure,Expenses
+Microfactura,18/03/2022,"4,30€",Invoice,Expenses
+Pequeño ocio,18/03/2022,"3,00€",Leisure,Expenses
+Gasto alimentación,17/03/2022,"0,49€",Food,Expenses
+Entretenimiento,16/03/2022,"19,00€",Leisure,Expenses
+Factura pequeña,16/03/2022,"6,00€",Invoice,Expenses
+Ingreso depósito,15/03/2022,"643,60€",Deposit,Income
+Pequeño ocio,12/03/2022,"5,00€",Leisure,Expenses
+Pequeño ocio,12/03/2022,"0,52€",Leisure,Expenses
+Factura importante,04/03/2022,"100,38€",Invoice,Expenses
+Factura pequeña,04/03/2022,"19,90€",Invoice,Expenses
+Pequeño ingreso,04/03/2022,"5,50€",Deposit,Income
+Pequeño ingreso,04/03/2022,"5,00€",Deposit,Income
+Gasto alimentación,02/03/2022,"0,95€",Food,Expenses
+Pequeña inversión,01/03/2022,"30,00€",Investment,Expenses
+Pequeño ingreso,01/03/2022,"5,00€",Deposit,Income
+Pequeña inversión,28/02/2022,"25,00€",Investment,Expenses
+Pequeño ingreso,28/02/2022,"4,91€",Deposit,Income
+Pequeño ocio,27/02/2022,"1,48€",Leisure,Expenses
+Pequeño ocio,27/02/2022,"1,48€",Leisure,Expenses
+Nómina mensual,24/02/2022,"146,00€",Salary,Income
+Factura servicio,22/02/2022,"20,55€",Invoice,Expenses
+Entretenimiento,21/02/2022,"10,00€",Leisure,Expenses
+Entretenimiento,21/02/2022,"10,00€",Leisure,Expenses
+Pequeño ingreso,21/02/2022,"7,93€",Deposit,Income
+Pequeño ingreso,19/02/2022,"50,00€",Deposit,Income
+Factura pequeña,19/02/2022,"16,00€",Invoice,Expenses
+Factura pequeña,19/02/2022,"10,00€",Invoice,Expenses
+Pequeño ocio,19/02/2022,"2,00€",Leisure,Expenses
+Pequeño ocio,19/02/2022,"2,00€",Leisure,Expenses
+Factura pequeña,17/02/2022,"12,79€",Invoice,Expenses
+Pequeño ingreso,14/02/2022,"6,50€",Deposit,Income
+Factura pequeña,09/02/2022,"10,00€",Invoice,Expenses
+Entretenimiento,06/02/2022,"20,00€",Leisure,Expenses
+Pequeño ingreso,06/02/2022,"20,00€",Deposit,Income
+Microfactura,06/02/2022,"2,00€",Invoice,Expenses
+Pequeño ingreso,05/02/2022,"50,00€",Deposit,Income
+Factura servicio,05/02/2022,"20,00€",Invoice,Expenses
+Microfactura,05/02/2022,"1,09€",Invoice,Expenses
+Pequeña inversión,01/02/2022,"30,00€",Investment,Expenses
+Pequeña inversión,01/02/2022,"20,00€",Investment,Expenses
+Microfactura,30/01/2022,"2,95€",Invoice,Expenses
+Nómina mensual,28/01/2022,"125,00€",Salary,Income
+Microfactura,28/01/2022,"1,09€",Invoice,Expenses
+Microfactura,20/01/2022,"1,09€",Invoice,Expenses
+Pequeño ingreso,18/01/2022,"48,99€",Deposit,Income
+Pequeño ingreso,18/01/2022,"20,00€",Deposit,Income
+Factura pequeña,18/01/2022,"16,00€",Invoice,Expenses
+Microfactura,14/01/2022,"0,89€",Invoice,Expenses
+Aportación inversión,09/01/2022,"50,00€",Investment,Expenses
+Pequeño ingreso,07/01/2022,"10,00€",Deposit,Income
+Pequeño ocio,07/01/2022,"6,00€",Leisure,Expenses
+Microfactura,05/01/2022,"1,00€",Invoice,Expenses
+Microfactura,24/12/2021,"4,00€",Invoice,Expenses
+Entretenimiento,22/12/2021,"11,85€",Leisure,Expenses
+Microfactura,22/12/2021,"2,55€",Invoice,Expenses
+Microfactura,22/12/2021,"0,49€",Invoice,Expenses
+Pequeño ingreso,21/12/2021,"170,00€",Deposit,Income
+Nómina mensual,21/12/2021,"138,00€",Salary,Income
+Pequeña inversión,21/12/2021,"15,00€",Investment,Expenses
+Microfactura,21/12/2021,"0,65€",Invoice,Expenses
+Factura pequeña,20/12/2021,"16,00€",Invoice,Expenses
+Factura pequeña,19/12/2021,"9,75€",Invoice,Expenses
+Factura servicio,17/12/2021,"70,00€",Invoice,Expenses
+Microfactura,14/12/2021,"3,00€",Invoice,Expenses
+Microfactura,9/12/2021,"0,65€",Invoice,Expenses
+Pequeña inversión,7/12/2021,"19,00€",Investment,Expenses
+Entretenimiento,4/12/2021,"20,00€",Leisure,Expenses
+Pequeño ocio,4/12/2021,"3,00€",Leisure,Expenses
+Pequeño ingreso,4/12/2021,"0,50€",Deposit,Income
+Pequeño ingreso,3/12/2021,"50,00€",Deposit,Income
+Pequeño ingreso,3/12/2021,"1,00€",Deposit,Income
+Microfactura,3/12/2021,"0,49€",Invoice,Expenses
+Nómina mensual,2/12/2021,"128,00€",Salary,Income
+Pequeña inversión,2/12/2021,"25,00€",Investment,Expenses
+Factura servicio,30/11/2021,"53,00€",Invoice,Expenses
+Pequeño ingreso,27/11/2021,"65,00€",Deposit,Income
+Factura servicio,26/11/2021,"48,99€",Invoice,Expenses
+Microfactura,23/11/2021,"3,00€",Invoice,Expenses
+Factura servicio,22/11/2021,"65,00€",Invoice,Expenses
+Microfactura,22/11/2021,"0,99€",Invoice,Expenses
+Microfactura,19/11/2021,"0,49€",Invoice,Expenses
+Pequeño ingreso,18/11/2021,"50,00€",Deposit,Income
+Factura pequeña,18/11/2021,"16,00€",Invoice,Expenses
+Microfactura,18/11/2021,"0,49€",Invoice,Expenses
+Nómina mensual,15/11/2021,"149,00€",Salary,Income
+Micro inversión,15/11/2021,"1,00€",Investment,Expenses
+Pequeño ingreso,11/11/2021,"6,07€",Deposit,Income
+Microfactura,11/11/2021,"0,65€",Invoice,Expenses
+Pequeña inversión,10/11/2021,"35,00€",Investment,Expenses
+Pequeña inversión,10/11/2021,"20,00€",Investment,Expenses
+Microfactura,8/11/2021,"0,65€",Invoice,Expenses
+Entretenimiento,7/11/2021,"12,50€",Leisure,Expenses
+Microfactura,5/11/2021,"0,49€",Invoice,Expenses
+Micro inversión,5/11/2021,"0,01€",Investment,Expenses
+Microfactura,3/11/2021,"0,65€",Invoice,Expenses
+Microfactura,29/10/2021,"1,34€",Invoice,Expenses
+Microfactura,28/10/2021,"1,09€",Invoice,Expenses
+Microfactura,26/10/2021,"0,65€",Invoice,Expenses
+Pequeño ocio,23/10/2021,"1,75€",Leisure,Expenses
+Aportación inversión,22/10/2021,"100,00€",Investment,Expenses
+Pequeña inversión,22/10/2021,"30,00€",Investment,Expenses
+Pequeña inversión,22/10/2021,"20,00€",Investment,Expenses
+Pequeño ocio,22/10/2021,"3,00€",Leisure,Expenses
+Pequeño ocio,22/10/2021,"1,85€",Leisure,Expenses
+Microfactura,21/10/2021,"0,65€",Invoice,Expenses
+Factura pequeña,19/10/2021,"16,00€",Invoice,Expenses
+Microfactura,19/10/2021,"1,15€",Invoice,Expenses
+Pequeño ingreso,18/10/2021,"100,00€",Deposit,Income
+Microfactura,18/10/2021,"1,15€",Invoice,Expenses
+Entretenimiento,16/10/2021,"24,50€",Leisure,Expenses
+Pequeño ingreso,16/10/2021,"15,00€",Deposit,Income
+Microfactura,15/10/2021,"1,09€",Invoice,Expenses
+Microfactura,14/10/2021,"1,15€",Invoice,Expenses
+Entretenimiento,8/10/2021,"10,00€",Leisure,Expenses
+Pequeño ocio,8/10/2021,"4,50€",Leisure,Expenses
+Pequeño ocio,8/10/2021,"1,50€",Leisure,Expenses
+Microfactura,8/10/2021,"1,09€",Invoice,Expenses
+Pequeño ocio,7/10/2021,"4,50€",Leisure,Expenses
+Factura importante,6/10/2021,"100,00€",Invoice,Expenses
+Microfactura,6/10/2021,"0,65€",Invoice,Expenses
+Microfactura,4/10/2021,"1,09€",Invoice,Expenses
+Microfactura,27/09/2021,"1,09€",Invoice,Expenses
+Pequeño ocio,26/09/2021,"7,50€",Leisure,Expenses
+Nómina mensual,23/09/2021,"467,00€",Salary,Income
+Pequeño ingreso,23/09/2021,"100,00€",Deposit,Income
+Pequeña inversión,23/09/2021,"35,00€",Investment,Expenses
+Microfactura,19/09/2021,"1,15€",Invoice,Expenses
+Factura pequeña,18/09/2021,"16,00€",Invoice,Expenses
+Pequeño ocio,18/09/2021,"6,80€",Leisure,Expenses
+Microfactura,16/09/2021,"2,99€",Invoice,Expenses
+Pequeño ingreso,14/09/2021,"70,00€",Deposit,Income
+Microfactura,13/09/2021,"1,09€",Invoice,Expenses
+Entretenimiento,12/09/2021,"10,75€",Leisure,Expenses
+Pequeño ocio,11/09/2021,"3,00€",Leisure,Expenses
+Nómina mensual,07/09/2021,"613,62€",Salary,Income
+Factura servicio,07/09/2021,"64,35€",Invoice,Expenses
+Pequeño ocio,01/09/2021,"1,50€",Leisure,Expenses

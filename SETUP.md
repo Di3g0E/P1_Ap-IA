@@ -77,37 +77,3 @@ Ejecuta el notebook de test para comprobar que todo funciona:
 | `matplotlib`   | 3.10.8   | Visualización de datos                   |
 | `seaborn`      | 0.13.2   | Gráficos estadísticos                    |
 | `scikit-learn`  | 1.8.0    | Modelos de Machine Learning              |
-
-## 7. Creación del .gitignore
-
-Crea un archivo .gitignore en la carpeta practicas/P1_Ap-IA/ con el siguiente contenido:
-
-```bash
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-.venv/
-venv/
-
-# Modelos (archivos pesados)
-models/*.pkl
-models/*.h5
-models/*.joblib
-
-# Ignorar carpetas de habilidades
-.agent/
-
-# Entorno
-.env
-
-# IDEs
-.vscode/
-.idea/
-
-# Jupyter Notebooks
-.ipynb_checkpoints/
-
-# Archivos de configuración
-.gitignore
-```
