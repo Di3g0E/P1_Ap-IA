@@ -2,28 +2,40 @@
 
 Este repositorio contiene la primera práctica de la asignatura **Aprendizaje Automático (Ap-IA)**. El objetivo es analizar y predecir el comportamiento financiero personal utilizando técnicas de Machine Learning.
 
-## 🚀 Instrucciones de Ejecución
+## Instrucciones de Ejecución
 
 > Para una guía completa de configuración desde cero (incluida la instalación de Python y uv), consulta [SETUP.md](SETUP.md).
 
 ### Inicio Rápido
 
-Desde la carpeta `practicas/`:
+### Entorno Virtual Compartido (Importante)
 
+Desde tu terminal (ubicada en la raíz `P1_Ap-IA/`):
+
+**Si usas Windows (Powershell):**
 ```powershell
-# Activar el entorno virtual
-.\.venv\Scripts\Activate.ps1
-
-# Instalar dependencias (solo la primera vez)
-uv pip install -r requirements.txt --link-mode copy
+..\.venv\Scripts\Activate.ps1
 ```
 
-### Ejecutar los Notebooks
+**Si no existe el entorno todavía**, lo debes crear de la siguiente forma e instalar las librerías propias de la práctica 1:
+```powershell
+python -m venv .venv
+.\.venv\Scripts\Activate.ps1
+uv pip install -r P1_Ap-IA/requirements.txt --link-mode copy
+```
+
+### Ejecutar los Scripts
 
 1. Abre VS Code en `P1_Ap-IA/`.
-2. Abre cualquier notebook de `notebooks/`.
-3. Selecciona el kernel `.venv (Python 3.13.0)`.
-4. Ejecuta las celdas.
+2. Abre la terminal de VS Code.
+3. Ejecuta el entorno virtual con:
+```powershell
+python -m venv .venv
+```
+4. Ejecuta el script con:
+```powershell
+python .\P1_Ap-IA\main.py --dataset db_trunc_8779 --dataset_name trunc_8779
+```
 
 ## 📁 Estructura del Proyecto
 

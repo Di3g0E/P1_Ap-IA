@@ -1,0 +1,31 @@
+\section{Propuesta de Solución}
+
+\subsection{Preprocesamiento e Ingeniería de Características}
+Debido al origen natural del gasto humano, caracterizado por una fuerte estacionalidad a lo largo del año y por patrones repetitivitos inherentes, diseñamos un marco de preprocesamiento robusto previo al entrenamiento de cualquier modelo algorítmico, cuyos detalles se listan a continuación:
+\begin{itemize}
+    \item \textbf{Agrupación y Limpieza General}: Eliminación de caracteres simbólicos (\textit{€}), interpolación de datos inconsistentes (NaT) originados en la columna `Amount` por lecturas imprecisas e indexación de la serie en rangos diarios para la uniformidad de la base.
+    \item \textbf{Factores de Estacionalidad y Componentes de Tiempo}: Creación de los predictores clave que engloban \textit{Quarter} (Trimestre), \textit{Mes}, variaciones asociadas al verano (\textit{Is\_Summer}) e indicativos del mes principal de dispendio humano (\textit{Is\_December}). Estas variables dotan a cualquier árbol de decisión de contexto.
+    \item \textbf{Generación de Variables Retardadas (Lags)}: Los hábitos humanos son autoregresivos. Se han incluido los gastos y ganancias de hace varios horizontes espaciales: concretamente $1, 2, 3$ y $12$ meses de retrospectiva (\textit{Lag 1, 2, 3, 12}), sirviendo como principal insumo predictor de comportamiento cíclico interanual e intra-trimestral de modo que el modelo evalúa qué ocurrió el mismo mes del año anterior.
+    \item \textbf{Medias Móviles (Rolling Statistics)}: Complementando a los Lags, calculamos una ventana rodante (sobre medias exponenciales EMA3 y ventana natural a 3 y 6 meses). Actúa como factor de suavizado, estabilizando las posibles disrupciones atípicas para proveer un vector firme de predicción para la tendencia actual económica.
+\end{itemize}
+
+\subsection{Modelos de Análisis y Predicción Implementados}
+El entrenamiento de esta solución se basó en una experimentación comparativa abordando:
+\begin{enumerate}
+    \item \textbf{Linear Regression (Baseline)}: Como punto de partida de referencia para certificar las posteriores ganancias de información.
+    \item \textbf{XGBoost, Random Forest e HistGradientBoosting}: Familia de métodos de ensamblado basados en árboles de decisión, que actúan de manera estelar resolviendo las relaciones no-lineales subyacentes presentes en la lógica de las características estacionales \textit{One-Hot} y los lags retardados.
+    \item \textbf{ARIMA y SARIMAX}: Alternativas analítico-estadísticas clásicas focalizadas exclusivamente en la regresión temporal intrínseca frente al historial de observaciones directas y la autocorrelación de sus rezagos sin tantas características contextuales combinadas.
+    \item \textbf{Voting Regressor (Ensemble final)}: Combinación agregativa orientada específicamente a disminuir la sensibilidad a la varianza y estabilizar la predicción sobre aquellos modelos ensamble con los índices absolutos de error (MAE) más eficientes.
+    \item \textbf{Recurrent Neural Network (LSTM)}: Un enfoque profundo para encontrar memoria secuencias a largo/corto plazo sobre las capas recursivas ajustadas por épocas de validación cruzada.
+\end{enumerate}
+
+Para sustentar documentalmente la evolución algorítmica y su comportamiento durante el entrenamiento o en el ciclo final de test, se añaden a continuación las pertinentes capturas procedentes de la ejecución final del estudio:
+
+% [INSTRUCCIÓN_PARA_EL_USUARIO: Insertar aquí capturas del código de preprocesamiento de características y/o gráficas de evaluación comparativa generadas con `plot_actual_vs_predicted_multiple`]
+
+\begin{figure}[h]
+    \centering
+    % \includegraphics[width=0.8\textwidth]{ruta/a/tu_figura.png}
+    \caption{Ejemplo de la arquitectura de extracción y rendimiento pre y post modelo (Incluir la gráfica Multi-Model generada)}
+    \label{fig:resultado1}
+\end{figure}

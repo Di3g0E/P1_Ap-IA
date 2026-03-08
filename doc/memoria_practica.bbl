@@ -1,0 +1,162 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global/global}
+    \entry{personal_finance_ml}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=63eac7d6643a79e5f4736d3d1f07fb06}{%
+           family={Authors},
+           familyi={A\bibinitperiod},
+           given={Finance},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{63eac7d6643a79e5f4736d3d1f07fb06}
+      \strng{fullhash}{63eac7d6643a79e5f4736d3d1f07fb06}
+      \strng{fullhashraw}{63eac7d6643a79e5f4736d3d1f07fb06}
+      \strng{bibnamehash}{63eac7d6643a79e5f4736d3d1f07fb06}
+      \strng{authorbibnamehash}{63eac7d6643a79e5f4736d3d1f07fb06}
+      \strng{authornamehash}{63eac7d6643a79e5f4736d3d1f07fb06}
+      \strng{authorfullhash}{63eac7d6643a79e5f4736d3d1f07fb06}
+      \strng{authorfullhashraw}{63eac7d6643a79e5f4736d3d1f07fb06}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Financial Machine Learning}
+      \field{title}{Personal Finance Management and Prediction using ML Algorithms}
+      \field{year}{2021}
+    \endentry
+    \entry{box2015time}{book}{}{}
+      \name{author}{4}{}{%
+        {{hash=d30289ba50f0f7219fb405bc35b8b71c}{%
+           family={Box},
+           familyi={B\bibinitperiod},
+           given={George\bibnamedelima EP},
+           giveni={G\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=47888ee6b97a184c6a17093aeb509b29}{%
+           family={Jenkins},
+           familyi={J\bibinitperiod},
+           given={Gwilym\bibnamedelima M},
+           giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=64798b045379893d750ad3f089861bad}{%
+           family={Reinsel},
+           familyi={R\bibinitperiod},
+           given={Gregory\bibnamedelima C},
+           giveni={G\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=916fd57423e9b7ed0d3ba70c92287892}{%
+           family={Ljung},
+           familyi={L\bibinitperiod},
+           given={Greta\bibnamedelima M},
+           giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley \& Sons}%
+      }
+      \strng{namehash}{a889686a50c7749def33de6826e92748}
+      \strng{fullhash}{73d0cc2792e602f1e990aa353e1752fd}
+      \strng{fullhashraw}{73d0cc2792e602f1e990aa353e1752fd}
+      \strng{bibnamehash}{a889686a50c7749def33de6826e92748}
+      \strng{authorbibnamehash}{a889686a50c7749def33de6826e92748}
+      \strng{authornamehash}{a889686a50c7749def33de6826e92748}
+      \strng{authorfullhash}{73d0cc2792e602f1e990aa353e1752fd}
+      \strng{authorfullhashraw}{73d0cc2792e602f1e990aa353e1752fd}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Time series analysis: forecasting and control}
+      \field{year}{2015}
+    \endentry
+    \entry{online_shopper}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=5c90dfa953f711dc1c2527216238dd6a}{%
+           family={Group},
+           familyi={G\bibinitperiod},
+           given={Research},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{5c90dfa953f711dc1c2527216238dd6a}
+      \strng{fullhash}{5c90dfa953f711dc1c2527216238dd6a}
+      \strng{fullhashraw}{5c90dfa953f711dc1c2527216238dd6a}
+      \strng{bibnamehash}{5c90dfa953f711dc1c2527216238dd6a}
+      \strng{authorbibnamehash}{5c90dfa953f711dc1c2527216238dd6a}
+      \strng{authornamehash}{5c90dfa953f711dc1c2527216238dd6a}
+      \strng{authorfullhash}{5c90dfa953f711dc1c2527216238dd6a}
+      \strng{authorfullhashraw}{5c90dfa953f711dc1c2527216238dd6a}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{E-commerce Studies}
+      \field{title}{Portrait of an Online Shopper}
+      \field{year}{2020}
+    \endentry
+    \entry{wonga2023}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=94ea892a77d704ed58247f5db6c7cd44}{%
+           family={Researchers},
+           familyi={R\bibinitperiod},
+           given={Wonga},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{94ea892a77d704ed58247f5db6c7cd44}
+      \strng{fullhash}{94ea892a77d704ed58247f5db6c7cd44}
+      \strng{fullhashraw}{94ea892a77d704ed58247f5db6c7cd44}
+      \strng{bibnamehash}{94ea892a77d704ed58247f5db6c7cd44}
+      \strng{authorbibnamehash}{94ea892a77d704ed58247f5db6c7cd44}
+      \strng{authornamehash}{94ea892a77d704ed58247f5db6c7cd44}
+      \strng{authorfullhash}{94ea892a77d704ed58247f5db6c7cd44}
+      \strng{authorfullhashraw}{94ea892a77d704ed58247f5db6c7cd44}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Future Tech}
+      \field{title}{WONGA: The Future of Personal Finance}
+      \field{year}{2023}
+    \endentry
+    \entry{personal_finance_tracker}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=605f4b89f6b804cf8b7158011cccdba2}{%
+           family={Team},
+           familyi={T\bibinitperiod},
+           given={Analytics},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{605f4b89f6b804cf8b7158011cccdba2}
+      \strng{fullhash}{605f4b89f6b804cf8b7158011cccdba2}
+      \strng{fullhashraw}{605f4b89f6b804cf8b7158011cccdba2}
+      \strng{bibnamehash}{605f4b89f6b804cf8b7158011cccdba2}
+      \strng{authorbibnamehash}{605f4b89f6b804cf8b7158011cccdba2}
+      \strng{authornamehash}{605f4b89f6b804cf8b7158011cccdba2}
+      \strng{authorfullhash}{605f4b89f6b804cf8b7158011cccdba2}
+      \strng{authorfullhashraw}{605f4b89f6b804cf8b7158011cccdba2}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Behavioral Finance}
+      \field{title}{Personal Finance Tracker with Spending Behavior Analysis}
+      \field{year}{2022}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
