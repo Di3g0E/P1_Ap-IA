@@ -16,3 +16,17 @@ models/*.joblib
 # IDEs
 .vscode/
 .idea/
+
+# LaTeX
+doc/*.aux
+doc/*.log
+doc/*.toc
+doc/*.bbl
+doc/*.blg
+doc/*.out
+doc/*.fdb_latexmk
+doc/*.fls
+doc/*.synctex.gz
+doc/*.run.xml
+doc/*.bcf
+doc/*.bcf-SAVE-ERROR
