@@ -22,10 +22,35 @@ El entrenamiento de esta solución se basó en una experimentación comparativa 
 Para sustentar documentalmente la evolución algorítmica y su comportamiento durante el entrenamiento o en el ciclo final de test, se añaden a continuación las pertinentes capturas procedentes de la ejecución final del estudio:
 
 % [INSTRUCCIÓN_PARA_EL_USUARIO: Insertar aquí capturas del código de preprocesamiento de características y/o gráficas de evaluación comparativa generadas con `plot_actual_vs_predicted_multiple`]
+\subsection{Análisis de Resultados y Validación}
+
+Tras la implementación de los modelos descritos, se procedió a una validación experimental para contrastar su desempeño bajo distintas condiciones de datos, permitiendo justificar la elección del modelo final.
+
+En la Figura \ref{fig:comparation_orig}, se presenta la comparativa inicial utilizando el dataset bruto. El resultado evidencia la ineficacia de la Regresión Lineal ante datos con alta varianza y presencia de valores atípicos, presentando un error (MAE) que triplica al de los modelos de ensamble. Esto ratifica que la relación entre las características temporales y el gasto no es lineal.
 
 \begin{figure}[h]
     \centering
-    % \includegraphics[width=0.8\textwidth]{ruta/a/tu_figura.png}
-    \caption{Ejemplo de la arquitectura de extracción y rendimiento pre y post modelo (Incluir la gráfica Multi-Model generada)}
-    \label{fig:resultado1}
+    \includegraphics[width=0.85\textwidth]{comparation_orig.png}
+    \caption{Evaluación del MAE con datos originales: se observa la vulnerabilidad del modelo lineal frente a la robustez de los algoritmos de árboles.}
+    \label{fig:comparation_orig}
+\end{figure}
+
+Posteriormente, se realizó un truncado de valores atípicos a 8.000 \texteuro{} para evaluar la sensibilidad al ruido. Como muestra la Figura \ref{fig:comparation_8779}, si bien esta limpieza reduce drásticamente el error del modelo base (LR), los modelos de \textit{Random Forest} y \textit{Boosting} mantienen su superioridad. Esto demuestra que su capacidad predictiva no depende solo de la ausencia de valores extremos, sino de la captura de patrones cíclicos mediante los \textit{lags} generados[cite: 4, 13].
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.85\textwidth]{comparation_8779.png}
+    \caption{Impacto del truncado de datos a 8.000 \texteuro{}: mejora de la convergencia en modelos simples y consolidación de los modelos de ensamble.}
+    \label{fig:comparation_8779}
+\end{figure}
+
+\subsection{Selección del Modelo y Desempeño del MVP}
+
+Finalmente, se seleccionó el modelo \textbf{Random Forest} debido a su estabilidad y precisión consistente en ambas pruebas. La Figura \ref{fig:resultado_final_rf} ilustra el desempeño final en el conjunto de test, donde la línea de predicción captura con éxito la estacionalidad y las fluctuaciones del gasto real[cite: 15]. Este resultado visual confirma que la estrategia de preprocesamiento y el algoritmo seleccionado son capaces de anticipar con éxito el comportamiento económico del usuario.
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.95\textwidth]{orig_RandomForest_actual_vs_predicted.png}
+    \caption{Contraste entre valores reales y predicción final del MVP (Random Forest). Se observa una alta correlación en la tendencia temporal[cite: 15].}
+    \label{fig:resultado_final_rf}
 \end{figure}
