@@ -1,4 +1,13 @@
 \section{Contexto}
-La educación e inteligencia financiera personal han cobrado suma relevancia ante un ecosistema económico crecientemente complejo. En este contexto, anticipar de forma precisa los despilfarros e hitos donde el gasto se pueda disparar resulta esencial para garantizar el ahorro e incentivar la estabilidad a medio y largo plazo.
+La gestión de las finanzas personales se ha vuelto una tarea fundamental debido a la gran cantidad de datos y transacciones que manejamos mensualmente. En este escenario, ser capaz de predecir picos de gasto o identificar patrones de consumo es clave para mejorar la capacidad de ahorro y asegurar una estabilidad económica a medio y largo plazo.
 
-El problema específico abordado reside en pronosticar la variable resultante del gasto mensual y de distintos periodos temporales de un usuario. Tradicionalmente, este esfuerzo era manual; pero mediante la Inteligencia Artificial podemos detectar correlaciones oscuras y latentes entre variables dispares, permitiendo pronosticar la cantidad total desembolsada en meses venideros analizando estacionalidad y rutinas adquiridas.
+El problema que se aborda en esta práctica consiste en pronosticar el gasto mensual de un usuario utilizando datos históricos. Aunque tradicionalmente este control se hacía de forma manual, el uso de técnicas de Inteligencia Artificial permite automatizar el proceso y encontrar tendencias o estacionalidades que no son evidentes a simple vista. El objetivo final es desarrollar un modelo capaz de estimar el gasto total de los próximos meses analizando los hábitos recurrentes y la rutina financiera del usuario.
+
+\subsection{Métricas}
+
+Para evaluar la precisión y fiabilidad de estas predicciones, se han seleccionado las siguientes métricas:
+\begin{itemize}
+    \item \textbf{Error Absoluto Medio (MAE):} Indica la diferencia promedio directa entre la predicción y el gasto real del usuario a final de mes, facilitando una interpretación monetaria inmediata del error.
+    \item \textbf{Raíz del Error Cuadrático Medio (RMSE):} Fundamental para penalizar errores de gran magnitud, algo vital cuando una desviación excesiva en el presupuesto supone un riesgo financiero inasumible.
+    \item \textbf{R-cuadrado ($R^2$):} Permite comprobar en qué medida las variables definidas (gasto acumulado y promedios históricos) explican realmente la variabilidad y la cifra final del gasto mensual.
+\end{itemize}

@@ -1,37 +1,66 @@
-\documentclass[a4paper,11pt]{article}
+\documentclass[a4paper,12pt]{article}
+
+% --- Paquetes básicos ---
 \usepackage[utf8]{inputenc}
 \usepackage[spanish]{babel}
-\usepackage{graphicx}
 \usepackage{hyperref}
-\usepackage{geometry}
-\geometry{a4paper, margin=2.5cm}
-\usepackage{biblatex}
+\usepackage{booktabs}
+\usepackage{amsmath, amsfonts, amssymb}
+\usepackage{listings}
+\usepackage{graphicx}
+\usepackage{subcaption}
+\usepackage{tcolorbox}
+\usepackage{enumitem}
+\usepackage[a4paper, top=2cm, bottom=2.5cm, left=2.5cm, right=2.5cm]{geometry}
+\usepackage[style=apa, backend=biber]{biblatex}
 \addbibresource{referencias.bib}
 
-\title{Práctica 1: Gestión y Predicción de Finanzas Personales}
+
+% Portada
+\title{\Huge \textbf{Práctica 1: Gestión y Predicción de Finanzas Personales}}
 \author{Diego Esclarín \and Sofía Contreras}
 \date{\today}
 
 \begin{document}
 
-\maketitle
-\begin{center}
-    \vspace{2cm}
-    \Large \textbf{Asignatura: Inteligencia Artificial Aplicada} \\
-    \vspace{1cm}
-    \includegraphics[width=5cm]{logo_urjc.png}
-\end{center}
-\newpage
+\begin{titlepage}
+    \maketitle
 
+    \begin{figure}[h]
+        \centering
+        \includegraphics[width=0.6\textwidth]{figures/logo_urjc.png}
+        \label{fig:logo}
+    \end{figure}
+    
+    \vfill
+    \centering
+    \large
+    Aplicaciones de Inteligencia Artificial \\
+    Grado en Ingeniería en Inteligencia Artificial \\
+    Universidad Rey Juan Carlos \\
+    Curso 2025--26
+\end{titlepage}
+
+\newpage
 \tableofcontents
 \newpage
 
+% --- Secciones con formato APA (mediante input de archivos externos) ---
 \input{1_introduccion}
+\newpage
 \input{2_contexto}
+
+\newpage
 \input{3_estado_del_arte}
+
+\newpage
 \input{4_propuesta_solucion}
+
+\newpage
 \input{5_conclusiones}
 
-\printbibliography
+\newpage
+\printbibliography[title={Referencias Bibliográficas}]
 
 \end{document}
+
