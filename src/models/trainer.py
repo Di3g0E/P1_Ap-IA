@@ -10,7 +10,10 @@ warnings.filterwarnings('ignore')
 import joblib
 import pandas as pd
 import numpy as np
-import xgboost as xgb
+try:
+    import xgboost as xgb
+except ImportError:
+    xgb = None
 from sklearn.linear_model import LinearRegression
 from sklearn.ensemble import RandomForestRegressor, HistGradientBoostingRegressor, VotingRegressor
 from sklearn.model_selection import GridSearchCV, TimeSeriesSplit

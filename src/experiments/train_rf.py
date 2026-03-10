@@ -3,6 +3,7 @@ import logging
 import warnings
 import argparse
 import pandas as pd
+import sys
 
 # ==========================================
 # CONFIGURACIÓN DE LOGS Y WARNINGS
@@ -13,6 +14,8 @@ logging.getLogger("tensorflow").setLevel(logging.ERROR)
 os.environ["KMP_WARNINGS"] = "FALSE"
 warnings.simplefilter(action='ignore', category=Warning)
 warnings.filterwarnings('ignore')
+
+sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
 
 from src.data.loader import load_raw_data, load_train_test_data, split_target
 from src.data.preparation import train_val_test_split, preprocess_data

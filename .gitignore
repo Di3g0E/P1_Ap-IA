@@ -10,23 +10,16 @@ models/*.pkl
 models/*.h5
 models/*.joblib
 
-# Entorno
-.venv
-
 # IDEs
 .vscode/
 .idea/
 
-# LaTeX
-doc/*.aux
-doc/*.log
-doc/*.toc
-doc/*.bbl
-doc/*.blg
-doc/*.out
-doc/*.fdb_latexmk
-doc/*.fls
-doc/*.synctex.gz
-doc/*.run.xml
-doc/*.bcf
-doc/*.bcf-SAVE-ERROR
+# Configuración
+config/
+
+# Documentación
+!doc/*.tex
+!doc/*.pdf
+!doc/*.bib
+!doc/figures/
+doc/
