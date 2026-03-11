@@ -23,3 +23,18 @@ config/
 !doc/*.bib
 !doc/figures/
 doc/
+*.zip
+
+# Logs
+logs/
+
+# Environment
+.env
+.ipynb_checkpoints/
+
+# Papers
+references/papers/Evaluation of LSTM Networks for*.pdf
+
+# Data
+data/processed/*.csv
+
